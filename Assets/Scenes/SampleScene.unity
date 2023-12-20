@@ -170,7 +170,8 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: 8ee650bf7f72e4b619eb46f0346a5887, type: 2}
   - {fileID: 11400000, guid: f9689636ee8e5496dbde41632ec420e7, type: 2}
-  timeBetweenWaves: 2
+  timeBetweenWaves: 1
+  isLooping: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
