@@ -535,3 +535,22 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 54982.772078 seconds.
+  path: Assets/Asset Packs/5 Action Chiptunes By Juhani Junkala/Juhani Junkala [Retro Game Music Pack] Level 1.wav
+  artifactKey: Guid(3e0023f2d41c44a13bae02a051f7f56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/5 Action Chiptunes By Juhani Junkala/Juhani Junkala [Retro Game Music Pack] Level 1.wav using Guid(3e0023f2d41c44a13bae02a051f7f56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfcd4ad5f954d7b9a4bf986033995b63') in 0.586846 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Asset Packs/5 Action Chiptunes By Juhani Junkala/Juhani Junkala [Retro Game Music Pack] Title Screen.wav
+  artifactKey: Guid(291ad7869c0d94fbeb762ad2e18c18db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/5 Action Chiptunes By Juhani Junkala/Juhani Junkala [Retro Game Music Pack] Title Screen.wav using Guid(291ad7869c0d94fbeb762ad2e18c18db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eefb12b462697f47cbbcbaf977963612') in 0.004722 seconds 
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting

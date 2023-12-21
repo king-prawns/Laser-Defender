@@ -65,6 +65,7 @@
     <None Include="Assets/Asset Packs/spaceshooter/license.txt" />
     <None Include="Assets/Asset Packs/spaceshooter/Spritesheet/sheet.xml" />
     <None Include="Assets/Asset Packs/Sci-fi-sounds/License.txt" />
+    <None Include="Assets/Asset Packs/5 Action Chiptunes By Juhani Junkala/INFO.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
