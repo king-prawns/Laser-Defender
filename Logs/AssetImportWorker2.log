@@ -2503,3 +2503,626 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1628.407980 seconds.
+  path: Assets/Asset Packs/m_background.mat
+  artifactKey: Guid(bd7584d9474474585b090231b0a2055a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/m_background.mat using Guid(bd7584d9474474585b090231b0a2055a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb92d38e27e95de5c7ab677e6f9c08b9') in 0.032898 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 18.430758 seconds.
+  path: Assets/Asset Packs/kenney_sci-fi-sounds
+  artifactKey: Guid(fcd670f5ebebc440cb149b999a1f8fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/kenney_sci-fi-sounds using Guid(fcd670f5ebebc440cb149b999a1f8fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5c7d1f27698c7b49b3d6981dc008d8') in 0.000444 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.948645 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds
+  artifactKey: Guid(fcd670f5ebebc440cb149b999a1f8fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds using Guid(fcd670f5ebebc440cb149b999a1f8fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9458da877a81ac4500a0e0ec1b931f') in 0.000663 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 32.642427 seconds.
+  path: Assets/Scripts/AudioPlayer.cs
+  artifactKey: Guid(ea9eb158c963c43c19dd573486924e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/AudioPlayer.cs using Guid(ea9eb158c963c43c19dd573486924e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4808d322abf7e140402e56c546d354') in 0.000858 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001962 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f76b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Domain Reload Profiling:
+	ReloadAssembly (856ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (731ms)
+			LoadAssemblies (33ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (135ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (509ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (32ms)
+				ProcessInitializeOnLoadAttributes (452ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4186 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (22.0 KB). Loaded Objects now: 4804.
+Memory consumption went from 180.4 MB to 180.4 MB.
+Total: 2.354959 ms (FindLiveObjects: 0.119500 ms CreateObjectMapping: 0.066292 ms MarkObjects: 2.152583 ms  DeleteObjects: 0.016084 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001651 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f76b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (868ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (741ms)
+			LoadAssemblies (34ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (139ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (519ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (31ms)
+				ProcessInitializeOnLoadAttributes (465ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4186 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (21.9 KB). Loaded Objects now: 4807.
+Memory consumption went from 180.4 MB to 180.4 MB.
+Total: 2.137083 ms (FindLiveObjects: 0.117875 ms CreateObjectMapping: 0.053333 ms MarkObjects: 1.951792 ms  DeleteObjects: 0.014000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 275.009056 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio
+  artifactKey: Guid(1c2ec01c8491b4076ba6b3bcb0ce4efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio using Guid(1c2ec01c8491b4076ba6b3bcb0ce4efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629e9c0410adfa6d249b409773886b53') in 0.009939 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.067538 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/computerNoise_000.ogg
+  artifactKey: Guid(9c76e780d3ddc4d01a9c1d302ccc7865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/computerNoise_000.ogg using Guid(9c76e780d3ddc4d01a9c1d302ccc7865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867b34c08821779bff3705ac277a92cc') in 0.226736 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/impactMetal_001.ogg
+  artifactKey: Guid(3a801f7f27f7a402cb2c4b00b9b1424c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/impactMetal_001.ogg using Guid(3a801f7f27f7a402cb2c4b00b9b1424c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449f2cfbab8a9a2baaf430f85dfba1c5') in 0.003748 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/engineCircular_003.ogg
+  artifactKey: Guid(9b4c12fbc1d0a40b0a112a526ddf6a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/engineCircular_003.ogg using Guid(9b4c12fbc1d0a40b0a112a526ddf6a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6ac23b5afbd4159b00c90c78241795') in 0.004111 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/impactMetal_002.ogg
+  artifactKey: Guid(bad82d19d7f664f81b44f60731cdccbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/impactMetal_002.ogg using Guid(bad82d19d7f664f81b44f60731cdccbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdab1a610e160fde73cb83b31988366d') in 0.003159 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineSmall_001.ogg
+  artifactKey: Guid(528630c33bd6b4207a3629222f53a727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineSmall_001.ogg using Guid(528630c33bd6b4207a3629222f53a727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9980372c17937c6962d4da0e8f3c73f4') in 0.003803 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/doorClose_002.ogg
+  artifactKey: Guid(c7fd96a8cd22d49c399a87f2ea95ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/doorClose_002.ogg using Guid(c7fd96a8cd22d49c399a87f2ea95ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '640ed55165291780eacd860963fa5791') in 0.003643 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_002.ogg
+  artifactKey: Guid(c8630228e6b23443babaf8aa4decbcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_002.ogg using Guid(c8630228e6b23443babaf8aa4decbcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ed6ce9027f76351f8c6e025742ecf1') in 0.003953 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_000.ogg
+  artifactKey: Guid(80e7571746b1c465ebf2e39ed89fbdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_000.ogg using Guid(80e7571746b1c465ebf2e39ed89fbdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c8d3213cb049a3723e239c8c7247f2') in 0.003332 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/doorClose_001.ogg
+  artifactKey: Guid(a74bf04bcdde5481bb20d22247581fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/doorClose_001.ogg using Guid(a74bf04bcdde5481bb20d22247581fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f50ad66c07a71d0a815ba706f96c113e') in 0.004151 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/laserLarge_002.ogg
+  artifactKey: Guid(c067f92544892462ea510a7b86295e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/laserLarge_002.ogg using Guid(c067f92544892462ea510a7b86295e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51b0e82fffbfe1083a515301e502b41a') in 0.003507 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngine_003.ogg
+  artifactKey: Guid(fceb7edbff59840ccb32177c0391c7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngine_003.ogg using Guid(fceb7edbff59840ccb32177c0391c7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61643a6fbdc6a97903c587bf0b8f6377') in 0.004186 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_003.ogg
+  artifactKey: Guid(176e61ad9a50e44f19483b724cb92fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_003.ogg using Guid(176e61ad9a50e44f19483b724cb92fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be657f6854bd0ca256f1dea322b11f89') in 0.003844 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/laserRetro_001.ogg
+  artifactKey: Guid(7499a08f01a8d4bd68674d1a09e79a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/laserRetro_001.ogg using Guid(7499a08f01a8d4bd68674d1a09e79a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e760944bbb7574e402c533a59efd150') in 0.003884 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/doorOpen_001.ogg
+  artifactKey: Guid(ed2c9bedd133e48a498abb5331d43cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/doorOpen_001.ogg using Guid(ed2c9bedd133e48a498abb5331d43cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa34c9adf1c28a7d830da6589062c279') in 0.003224 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/laserSmall_004.ogg
+  artifactKey: Guid(6bf441bf8229948a98205991e4a41c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/laserSmall_004.ogg using Guid(6bf441bf8229948a98205991e4a41c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e97c7e4a871a409949aec957d40743c') in 0.003379 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/slime_000.ogg
+  artifactKey: Guid(fc3f7103d3ccc461ca370b9ef87a8fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/slime_000.ogg using Guid(fc3f7103d3ccc461ca370b9ef87a8fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cfdab0ea839755c1195099d0c0b1a7') in 0.003263 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/laserSmall_002.ogg
+  artifactKey: Guid(5891a758b82a244ec97a36a93b2f57ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/laserSmall_002.ogg using Guid(5891a758b82a244ec97a36a93b2f57ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f5675217dc2d08008da417a61600036') in 0.004427 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/engineCircular_002.ogg
+  artifactKey: Guid(257cda40721b54fcaa7cf058ea319285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/engineCircular_002.ogg using Guid(257cda40721b54fcaa7cf058ea319285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9267604e332a680f39061ea3befa9c') in 0.003695 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngine_001.ogg
+  artifactKey: Guid(e571af0ffe170404eaf51dbefd30b395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngine_001.ogg using Guid(e571af0ffe170404eaf51dbefd30b395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147805156cf6fe382caafcdea4b14e0d') in 0.005163 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/thrusterFire_001.ogg
+  artifactKey: Guid(4225149d6b631453b923e12057bc6418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/thrusterFire_001.ogg using Guid(4225149d6b631453b923e12057bc6418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3a170accb062d175d7c85d776fc919') in 0.004450 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/doorClose_000.ogg
+  artifactKey: Guid(61725f73f3cb741d8bfbcfcdea69c5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/doorClose_000.ogg using Guid(61725f73f3cb741d8bfbcfcdea69c5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c263052c51ec76419fa8994b6300035') in 0.005044 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_004.ogg
+  artifactKey: Guid(2cbd5eee3a40c40aea19ba2deadfb0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLow_004.ogg using Guid(2cbd5eee3a40c40aea19ba2deadfb0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d3d663c30740dbdc0db804b3b1a8d6') in 0.003963 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_000.ogg
+  artifactKey: Guid(0fc0a4064691a4e51b48c3deb0cbe7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_000.ogg using Guid(0fc0a4064691a4e51b48c3deb0cbe7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2609284b2ffd73c1555a0c896aa2a924') in 0.004153 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_001.ogg
+  artifactKey: Guid(23710a80541984075b171e1871cc96b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_001.ogg using Guid(23710a80541984075b171e1871cc96b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8187d9384d96a31fed226295fb936d2') in 0.004554 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_003.ogg
+  artifactKey: Guid(056a8e6a20f18483998b0d0e36363d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_003.ogg using Guid(056a8e6a20f18483998b0d0e36363d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4f0f4ebb4eafe047d0a086a89e08a9') in 0.004012 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLarge_000.ogg
+  artifactKey: Guid(5948c61aa3f0e476e8da5f75ead19d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLarge_000.ogg using Guid(5948c61aa3f0e476e8da5f75ead19d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6856219ad360c372a3e17db9c5eab92') in 0.003553 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/laserRetro_004.ogg
+  artifactKey: Guid(6c660ec35711b4d80b9b389a4cedfa95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/laserRetro_004.ogg using Guid(6c660ec35711b4d80b9b389a4cedfa95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b031c4c343ccedbf4ea3f317c62dce') in 0.003138 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngine_000.ogg
+  artifactKey: Guid(adb7477f95f0b47b3a4406c442f93a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngine_000.ogg using Guid(adb7477f95f0b47b3a4406c442f93a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0fba628d5fe1365b812148ba417bad') in 0.004246 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/doorOpen_000.ogg
+  artifactKey: Guid(f3471896d170447bc9f53e9464ae89e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/doorOpen_000.ogg using Guid(f3471896d170447bc9f53e9464ae89e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af66bdf923bb4ce47042cb39e0903431') in 0.003833 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLarge_003.ogg
+  artifactKey: Guid(cfff763e2589e42d18ebb432bcd215c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/spaceEngineLarge_003.ogg using Guid(cfff763e2589e42d18ebb432bcd215c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada9d56918b0fa1d161399d8a6d6c874') in 0.003785 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/thrusterFire_000.ogg
+  artifactKey: Guid(0d7899deda4bc489ba1588731fcd4718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/thrusterFire_000.ogg using Guid(0d7899deda4bc489ba1588731fcd4718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744ce5a673dbb9a9c950a5bd2721187d') in 0.003822 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/impactMetal_000.ogg
+  artifactKey: Guid(518fec791496448918726d21ea99385b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/impactMetal_000.ogg using Guid(518fec791496448918726d21ea99385b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f73b5506921b8240a26c1f969dfb6c9') in 0.003778 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_002.ogg
+  artifactKey: Guid(885656919e21849c8a0b279cf2787014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/forceField_002.ogg using Guid(885656919e21849c8a0b279cf2787014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88cf517045fdd9ea941fb3c1b0064368') in 0.003306 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/laserRetro_000.ogg
+  artifactKey: Guid(da59cd8cf622c4ca3a06eaa8bd49df21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/laserRetro_000.ogg using Guid(da59cd8cf622c4ca3a06eaa8bd49df21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e6c21229836d169c6163686b751956') in 0.003216 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Asset Packs/Sci-fi-sounds/Audio/laserLarge_001.ogg
+  artifactKey: Guid(b2b11a87c786e4aaf98ff7e360e0e5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/Sci-fi-sounds/Audio/laserLarge_001.ogg using Guid(b2b11a87c786e4aaf98ff7e360e0e5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d45f3c5b2be8ad638a694f6f61db0c') in 0.003870 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001526 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f76b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Domain Reload Profiling:
+	ReloadAssembly (896ms)
+		BeginReloadAssembly (82ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (763ms)
+			LoadAssemblies (37ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (149ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (519ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (35ms)
+				ProcessInitializeOnLoadAttributes (459ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4186 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (23.0 KB). Loaded Objects now: 4812.
+Memory consumption went from 184.6 MB to 184.6 MB.
+Total: 2.523250 ms (FindLiveObjects: 0.155208 ms CreateObjectMapping: 0.070083 ms MarkObjects: 2.279541 ms  DeleteObjects: 0.017875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002118 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f76b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Domain Reload Profiling:
+	ReloadAssembly (885ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (758ms)
+			LoadAssemblies (37ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (150ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (515ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (32ms)
+				ProcessInitializeOnLoadAttributes (456ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4186 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (21.9 KB). Loaded Objects now: 4815.
+Memory consumption went from 184.6 MB to 184.6 MB.
+Total: 2.404500 ms (FindLiveObjects: 0.153750 ms CreateObjectMapping: 0.079042 ms MarkObjects: 2.153875 ms  DeleteObjects: 0.017500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002830 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f76b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Domain Reload Profiling:
+	ReloadAssembly (872ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (743ms)
+			LoadAssemblies (37ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (140ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (513ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (32ms)
+				ProcessInitializeOnLoadAttributes (454ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4186 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (23.0 KB). Loaded Objects now: 4818.
+Memory consumption went from 184.7 MB to 184.6 MB.
+Total: 2.656792 ms (FindLiveObjects: 0.160209 ms CreateObjectMapping: 0.075416 ms MarkObjects: 2.403042 ms  DeleteObjects: 0.017666 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
