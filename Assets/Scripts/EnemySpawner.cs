@@ -32,7 +32,7 @@ public class EnemySpawner : MonoBehaviour
                     Instantiate(
                         currentWave.GetEnemyPrefab(i),
                         currentWave.GetStartingWaypoint().position,
-                        Quaternion.identity,
+                        Quaternion.Euler(0, 0, 180),
                         transform); // the instantiated object will be put inside the Enemy Spawner game object
                     yield return new WaitForSeconds(currentWave.GetRandomSpawnTime()); // create a coroutines to delay spawn of enemies
                 }
