@@ -763,3 +763,149 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 338.845998 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(9e954836d609f49ac999b74aeae83fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Prefabs/Player.prefab using Guid(9e954836d609f49ac999b74aeae83fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d576627aacde60a4e888a8d8db865f') in 0.034533 seconds 
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time since last request: 25.784318 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(9e954836d609f49ac999b74aeae83fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Prefabs/Player.prefab using Guid(9e954836d609f49ac999b74aeae83fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1255aaef7a4128483d530c2d8738dbbc') in 0.008008 seconds 
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time since last request: 432.561963 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/kenvector_future.ttf
+  artifactKey: Guid(0947f4057bad545aa960667ab5bd272b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/kenvector_future.ttf using Guid(0947f4057bad545aa960667ab5bd272b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e2144b7a199668d4fe00c8913db8c2') in 0.829558 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2346cebafc3d5690b45a64b2a88994ac') in 0.116919 seconds 
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d946acb9cf2061b0c948408930b61f1') in 0.125433 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 279.314397 seconds.
+  path: Assets/Asset Packs/spaceshooter/Backgrounds
+  artifactKey: Guid(659817776b4e4411786174d0c0b6543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Backgrounds using Guid(659817776b4e4411786174d0c0b6543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5085b810f85e03779986097134f814ef') in 0.001974 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.896615 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus
+  artifactKey: Guid(565a5b2cf2c6548b783e073d4f8ddcdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus using Guid(565a5b2cf2c6548b783e073d4f8ddcdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f443f40333ff03db31b7aceb757abf7c') in 0.001656 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.053914 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/sfx_laser1.ogg
+  artifactKey: Guid(96c85190fdcaf4e57bfe8af527459ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/sfx_laser1.ogg using Guid(96c85190fdcaf4e57bfe8af527459ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279e5630878105e4f08f75dc129db391') in 0.068790 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/sfx_zap.ogg
+  artifactKey: Guid(9d149409f0cf64702b3945f94dc71e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/sfx_zap.ogg using Guid(9d149409f0cf64702b3945f94dc71e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054c19806a82d82e92a32346381b7f49') in 0.005014 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/sfx_shieldUp.ogg
+  artifactKey: Guid(2f11492981c294483be50f3d8f608aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/sfx_shieldUp.ogg using Guid(2f11492981c294483be50f3d8f608aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d226548b21b2dfc3f99f5bc368ea51') in 0.003857 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/sfx_twoTone.ogg
+  artifactKey: Guid(5c2d8430d7eed4ee488575c299503709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/sfx_twoTone.ogg using Guid(5c2d8430d7eed4ee488575c299503709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db6469bd9587904d0681c2e44efca84') in 0.003830 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/sfx_lose.ogg
+  artifactKey: Guid(1c4ce75fdc76e4de8a8787490a516961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/sfx_lose.ogg using Guid(1c4ce75fdc76e4de8a8787490a516961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29564bf80e40247dbe3693ce555254fb') in 0.003677 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/sfx_shieldDown.ogg
+  artifactKey: Guid(3ec2718f7f70a4554986c0995ac65849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/sfx_shieldDown.ogg using Guid(3ec2718f7f70a4554986c0995ac65849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded444eb595d37518aa63f3b82ba9f39') in 0.003756 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.341856 seconds.
+  path: Assets/Asset Packs/spaceshooter/Vector
+  artifactKey: Guid(fb8b4dc8fbb9a493c923a9d441721feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Vector using Guid(fb8b4dc8fbb9a493c923a9d441721feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8ce9f21bdddb48e62bb42495ef0399') in 0.001144 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 57.660758 seconds.
+  path: Assets/Asset Packs/spaceshooter/Bonus/kenvector_future_thin SDF.asset
+  artifactKey: Guid(c397e0fb37bb94f81b928c339038ddd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Asset Packs/spaceshooter/Bonus/kenvector_future_thin SDF.asset using Guid(c397e0fb37bb94f81b928c339038ddd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: '4b0b5939b06d8598cd693786d9a47e42') in 0.096420 seconds 
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 14.862547 seconds.
+  path: Assets/Font
+  artifactKey: Guid(0a18383c9d6994667b7d3a8d4b180447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Font using Guid(0a18383c9d6994667b7d3a8d4b180447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ff2e57021cd809c69ad936e4c67da8') in 0.000667 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.144279 seconds.
+  path: Assets/Fonts
+  artifactKey: Guid(0a18383c9d6994667b7d3a8d4b180447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Fonts using Guid(0a18383c9d6994667b7d3a8d4b180447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c79ebb1055448f3d2505d1ba130820') in 0.000964 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 172.145958 seconds.
+  path: Assets/Fonts/kenvector_future_thin SDF.asset
+  artifactKey: Guid(c397e0fb37bb94f81b928c339038ddd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Fonts/kenvector_future_thin SDF.asset using Guid(c397e0fb37bb94f81b928c339038ddd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: '7b4dfd46223c1600b069e82e5453ba19') in 0.102384 seconds 
+Number of asset objects unloaded after import = 7
