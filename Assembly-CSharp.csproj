@@ -58,6 +58,7 @@
     <Compile Include="Assets/Scripts/DamageDealer.cs" />
     <Compile Include="Assets/Scripts/Shooter.cs" />
     <Compile Include="Assets/Scripts/CameraShake.cs" />
+    <Compile Include="Assets/Scripts/SpriteScroller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Asset Packs/spaceshooter/license.txt" />
