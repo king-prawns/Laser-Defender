@@ -63,6 +63,7 @@
     <Compile Include="Assets/Scripts/CameraShake.cs" />
     <Compile Include="Assets/Scripts/AudioPlayer.cs" />
     <Compile Include="Assets/Scripts/LevelManager.cs" />
+    <Compile Include="Assets/Scripts/UIGameOver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
