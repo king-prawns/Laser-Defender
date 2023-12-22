@@ -50,18 +50,19 @@
     <UnityVersion>2021.3.31f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/DamageDealer.cs" />
     <Compile Include="Assets/Scripts/Pathfinder.cs" />
+    <Compile Include="Assets/Scripts/UIDisplay.cs" />
+    <Compile Include="Assets/Scripts/Health.cs" />
+    <Compile Include="Assets/Scripts/Shooter.cs" />
+    <Compile Include="Assets/Scripts/ScoreKeeper.cs" />
+    <Compile Include="Assets/Scripts/SpriteScroller.cs" />
     <Compile Include="Assets/Scripts/EnemySpawner.cs" />
     <Compile Include="Assets/Scripts/Player.cs" />
     <Compile Include="Assets/Scripts/WaveConfigSO.cs" />
-    <Compile Include="Assets/Scripts/Health.cs" />
-    <Compile Include="Assets/Scripts/DamageDealer.cs" />
-    <Compile Include="Assets/Scripts/Shooter.cs" />
     <Compile Include="Assets/Scripts/CameraShake.cs" />
-    <Compile Include="Assets/Scripts/SpriteScroller.cs" />
     <Compile Include="Assets/Scripts/AudioPlayer.cs" />
-    <Compile Include="Assets/Scripts/ScoreKeeper.cs" />
-    <Compile Include="Assets/Scripts/UIDisplay.cs" />
+    <Compile Include="Assets/Scripts/LevelManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
