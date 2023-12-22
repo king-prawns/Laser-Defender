@@ -75,6 +75,7 @@ public class Shooter : MonoBehaviour
             if (!useAI)
             {
                 audioPlayer.PlayShootingClip();
+                // audioPlayer.GetInstance().PlayShootingClip(); // singleton: pattern #2 - avoid this approach if possible
             }
 
             yield return new WaitForSeconds(timeToNextProjectile);
